@@ -1,4 +1,4 @@
-# *ODC-final-project*
+# *ODC final-project*
 I'm so glad to work with TopTen team (Donia Amin, Eslam saber, Nada gharib, Ahmed farid, Osama eldeeb, Ahmed elmoslmany) in Software Engineering Hackathon from Orange Digital Center , We were required to create a 2d game using SFML in just 24 hours :).
 
 So, we've created thd Doooodle jump game in a new style, i hope you find it usefull.
